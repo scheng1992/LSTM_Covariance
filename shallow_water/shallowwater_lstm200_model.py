@@ -2,7 +2,7 @@
 """
 Created on Wed Jan  6 13:39:58 2021
 
-@author: siboc
+@author: Mingming Qiu, siboc
 """
 
 import numpy as np
